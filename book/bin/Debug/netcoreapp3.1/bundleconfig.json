@@ -1,0 +1,26 @@
+[
+  {
+    "outputFileName": "wwwroot/css/site.min.css",
+    "inputFiles": [
+      "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800",
+      "https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,600,600i,700,700i,800",
+      "https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900",
+      "wwwroot/css/bootstrap.min.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/site.min.js",
+    "inputFiles": [
+      "wwwroot/js/vendor/jquery-3.2.1.min.js",
+      "wwwroot/js/popper.min.js",
+      "wwwroot/js/bootstrap.min.js",
+      "wwwroot/js/plugins.js",
+      "wwwroot/js/active.js"
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  }
+]

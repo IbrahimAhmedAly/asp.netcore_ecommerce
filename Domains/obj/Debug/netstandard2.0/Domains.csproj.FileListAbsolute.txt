@@ -1,0 +1,36 @@
+D:\Asp.net\book\Domains\obj\Debug\netstandard2.0\Domains.csprojAssemblyReference.cache
+D:\Asp.net\book\Domains\obj\Debug\netstandard2.0\Domains.AssemblyInfoInputs.cache
+D:\Asp.net\book\Domains\obj\Debug\netstandard2.0\Domains.AssemblyInfo.cs
+D:\Asp.net\book\Domains\obj\Debug\netstandard2.0\Domains.csproj.CoreCompileInputs.cache
+D:\Asp.net\book\Domains\bin\Debug\netstandard2.0\Domains.deps.json
+D:\Asp.net\book\Domains\bin\Debug\netstandard2.0\Domains.dll
+D:\Asp.net\book\Domains\bin\Debug\netstandard2.0\Domains.pdb
+D:\Asp.net\book\Domains\obj\Debug\netstandard2.0\Domains.dll
+D:\Asp.net\book\Domains\obj\Debug\netstandard2.0\Domains.pdb
+C:\Users\kareem\OneDrive\Desktop\book\Domains\bin\Debug\netstandard2.0\Domains.deps.json
+C:\Users\kareem\OneDrive\Desktop\book\Domains\bin\Debug\netstandard2.0\Domains.dll
+C:\Users\kareem\OneDrive\Desktop\book\Domains\bin\Debug\netstandard2.0\Domains.pdb
+C:\Users\kareem\OneDrive\Desktop\book\Domains\obj\Debug\netstandard2.0\Domains.csprojAssemblyReference.cache
+C:\Users\kareem\OneDrive\Desktop\book\Domains\obj\Debug\netstandard2.0\Domains.AssemblyInfoInputs.cache
+C:\Users\kareem\OneDrive\Desktop\book\Domains\obj\Debug\netstandard2.0\Domains.AssemblyInfo.cs
+C:\Users\kareem\OneDrive\Desktop\book\Domains\obj\Debug\netstandard2.0\Domains.csproj.CoreCompileInputs.cache
+C:\Users\kareem\OneDrive\Desktop\book\Domains\obj\Debug\netstandard2.0\Domains.dll
+C:\Users\kareem\OneDrive\Desktop\book\Domains\obj\Debug\netstandard2.0\Domains.pdb
+D:\Course Code\Day-14\book\Domains\bin\Debug\netstandard2.0\Domains.deps.json
+D:\Course Code\Day-14\book\Domains\bin\Debug\netstandard2.0\Domains.dll
+D:\Course Code\Day-14\book\Domains\bin\Debug\netstandard2.0\Domains.pdb
+D:\Course Code\Day-14\book\Domains\obj\Debug\netstandard2.0\Domains.csprojAssemblyReference.cache
+D:\Course Code\Day-14\book\Domains\obj\Debug\netstandard2.0\Domains.AssemblyInfoInputs.cache
+D:\Course Code\Day-14\book\Domains\obj\Debug\netstandard2.0\Domains.AssemblyInfo.cs
+D:\Course Code\Day-14\book\Domains\obj\Debug\netstandard2.0\Domains.csproj.CoreCompileInputs.cache
+D:\Course Code\Day-14\book\Domains\obj\Debug\netstandard2.0\Domains.dll
+D:\Course Code\Day-14\book\Domains\obj\Debug\netstandard2.0\Domains.pdb
+D:\Courses\Course Code\Day-14\book\Domains\bin\Debug\netstandard2.0\Domains.deps.json
+D:\Courses\Course Code\Day-14\book\Domains\bin\Debug\netstandard2.0\Domains.dll
+D:\Courses\Course Code\Day-14\book\Domains\bin\Debug\netstandard2.0\Domains.pdb
+D:\Courses\Course Code\Day-14\book\Domains\obj\Debug\netstandard2.0\Domains.csprojAssemblyReference.cache
+D:\Courses\Course Code\Day-14\book\Domains\obj\Debug\netstandard2.0\Domains.AssemblyInfoInputs.cache
+D:\Courses\Course Code\Day-14\book\Domains\obj\Debug\netstandard2.0\Domains.AssemblyInfo.cs
+D:\Courses\Course Code\Day-14\book\Domains\obj\Debug\netstandard2.0\Domains.csproj.CoreCompileInputs.cache
+D:\Courses\Course Code\Day-14\book\Domains\obj\Debug\netstandard2.0\Domains.dll
+D:\Courses\Course Code\Day-14\book\Domains\obj\Debug\netstandard2.0\Domains.pdb

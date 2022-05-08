@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gUldqTmlwCOSHgGfj62mE6mSzkNAXeqVJdBksUu6HT3dbG0okHsfsLmKxTKcqxbv3EQsWd5Dl3M+BXw6x5gx4A==",
+  "success": true,
+  "projectFilePath": "D:\\Courses\\Course Code\\Day-14\\book\\Domains\\Domains.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kareem\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kareem\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kareem\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

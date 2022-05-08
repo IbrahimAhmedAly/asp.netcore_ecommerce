@@ -1,0 +1,679 @@
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\book.exe
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\book.deps.json
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\book.runtimeconfig.json
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\book.runtimeconfig.dev.json
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\book.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\book.pdb
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\book.Views.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\book.Views.pdb
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.csprojAssemblyReference.cache
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.AssemblyInfoInputs.cache
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.AssemblyInfo.cs
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.csproj.CoreCompileInputs.cache
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.RazorAssemblyInfo.cache
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.RazorAssemblyInfo.cs
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\staticwebassets\book.StaticWebAssets.Manifest.cache
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\staticwebassets\book.StaticWebAssets.xml
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\scopedcss\bundle\book.styles.css
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.TagHelpers.input.cache
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.TagHelpers.output.cache
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.RazorCoreGenerate.cache
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Bubble\Index.cshtml.g.cs
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.RazorTargetAssemblyInfo.cache
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.RazorTargetAssemblyInfo.cs
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.Views.pdb
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.dll
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.pdb
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.genruntimeconfig.cache
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\book.csproj.CopyComplete
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp.net\book\book\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net\Book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp.net\Book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Asp.net\Book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Asp.net\Book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Items\List.cshtml.g.cs
+D:\Asp.net\Book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Items\Edit.cshtml.g.cs
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Domains.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Domains.pdb
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Asp.net\Book\book\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.csprojAssemblyReference.cache
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.AssemblyInfoInputs.cache
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.AssemblyInfo.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.csproj.CoreCompileInputs.cache
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.RazorAssemblyInfo.cache
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.RazorAssemblyInfo.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.pdb
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\book.exe
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\book.deps.json
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\book.runtimeconfig.json
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\book.runtimeconfig.dev.json
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\book.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\book.pdb
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\book.Views.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\book.Views.pdb
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Domains.dll
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\Domains.pdb
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\staticwebassets\book.StaticWebAssets.Manifest.cache
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\staticwebassets\book.StaticWebAssets.xml
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\scopedcss\bundle\book.styles.css
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.TagHelpers.input.cache
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.TagHelpers.output.cache
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.RazorCoreGenerate.cache
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Items\Edit.cshtml.g.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Items\List.cshtml.g.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.RazorTargetAssemblyInfo.cache
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.RazorTargetAssemblyInfo.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.Views.pdb
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.csproj.CopyComplete
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\book.genruntimeconfig.cache
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Items\Details.cshtml.g.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_item.cshtml.g.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Order\Cart.cshtml.g.cs
+C:\Users\kareem\OneDrive\Desktop\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Items\ItemList.cshtml.g.cs
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\bundleconfig.json
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.exe
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.deps.json
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.runtimeconfig.json
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.runtimeconfig.dev.json
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.pdb
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.Views.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.Views.pdb
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Domains.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Domains.pdb
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.csprojAssemblyReference.cache
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.AssemblyInfoInputs.cache
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.AssemblyInfo.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.csproj.CoreCompileInputs.cache
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.MvcApplicationPartsAssemblyInfo.cache
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.RazorAssemblyInfo.cache
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.RazorAssemblyInfo.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\staticwebassets\book.StaticWebAssets.Manifest.cache
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\staticwebassets\book.StaticWebAssets.xml
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\scopedcss\bundle\book.styles.css
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.TagHelpers.input.cache
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.TagHelpers.output.cache
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.RazorCoreGenerate.cache
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Items\Edit.cshtml.g.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Items\List.cshtml.g.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Items\Details.cshtml.g.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Items\ItemList.cshtml.g.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Order\Cart.cshtml.g.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_item.cshtml.g.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.RazorTargetAssemblyInfo.cache
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.RazorTargetAssemblyInfo.cs
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.Views.pdb
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.csproj.CopyComplete
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.dll
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.pdb
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.genruntimeconfig.cache
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\bundleconfig.json
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.exe
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.deps.json
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.runtimeconfig.json
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.runtimeconfig.dev.json
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.pdb
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.Views.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\book.Views.pdb
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Domains.dll
+D:\Courses\Course Code\Day-14\book\book\bin\Debug\netcoreapp3.1\Domains.pdb
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.csprojAssemblyReference.cache
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.AssemblyInfoInputs.cache
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.AssemblyInfo.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.csproj.CoreCompileInputs.cache
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.MvcApplicationPartsAssemblyInfo.cache
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.RazorAssemblyInfo.cache
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.RazorAssemblyInfo.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\staticwebassets\book.StaticWebAssets.Manifest.cache
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\staticwebassets\book.StaticWebAssets.xml
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\scopedcss\bundle\book.styles.css
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.TagHelpers.input.cache
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.TagHelpers.output.cache
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.RazorCoreGenerate.cache
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Items\Edit.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Items\List.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Items\Details.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Items\ItemList.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Order\Cart.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_item.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.RazorTargetAssemblyInfo.cache
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.RazorTargetAssemblyInfo.cs
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.Views.pdb
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.csproj.CopyComplete
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.dll
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.pdb
+D:\Courses\Course Code\Day-14\book\book\obj\Debug\netcoreapp3.1\book.genruntimeconfig.cache
